@@ -2,8 +2,14 @@
 React Native Basic App
 
 # Usage
-Install the packages
-```npm install```
+### Install the packages
+```
+npm install
 
-Run the App using Expo
-```expo start```
+```
+
+### Run the App using Expo
+```
+expo start
+
+```
